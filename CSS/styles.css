@@ -56,7 +56,7 @@ main{
 .action {
     font-size: 1.35em;
     color: #666600;
-    font-weight: hold;
+    font-weight: bold;
 }
 
 #weights, #cardio, #training {
